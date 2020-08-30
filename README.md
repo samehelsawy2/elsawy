@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameh Elsawy  👋
 
-## I'm a Python Developer & IT Instructor CO-founder(FSC Academy)
+## I'm a Python Developer & IT Instructor and  CO-founder(FSC Academy)
 - 🎓 I’m currently working as an Instructor and freelancer. 
 - 👉 I’m currently learning Data Sciense & AI & CCIE.
 - 🌝 I’m looking to collaborate with other content creators.
